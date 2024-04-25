@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.MainTest$ModelsTest$BoardTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-03-17T08:38:41" hostname="AHMDHSAMMACERLA" time="0.019">
+  <properties/>
+  <testcase name="Test Methods Exist" classname="org.example.MainTest$ModelsTest$BoardTest" time="0.003"/>
+  <testcase name="Test Constructors Exist" classname="org.example.MainTest$ModelsTest$BoardTest" time="0.001"/>
+  <testcase name="Test Fields Exist" classname="org.example.MainTest$ModelsTest$BoardTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

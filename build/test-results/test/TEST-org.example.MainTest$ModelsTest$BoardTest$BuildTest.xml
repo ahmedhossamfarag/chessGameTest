@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.MainTest$ModelsTest$BoardTest$BuildTest" tests="65" skipped="0" failures="0" errors="0" timestamp="2024-03-17T08:38:41" hostname="AHMDHSAMMACERLA" time="0.326">
+  <properties/>
+  <testcase name="build Method Test" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[1] 0, 0, org.example.models.Rook, false" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.009"/>
+  <testcase name="[2] 0, 1, org.example.models.Knight, false" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.002"/>
+  <testcase name="[3] 0, 2, org.example.models.Bishop, false" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.002"/>
+  <testcase name="[4] 0, 3, org.example.models.Queen, false" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.003"/>
+  <testcase name="[5] 0, 4, org.example.models.King, false" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.002"/>
+  <testcase name="[6] 0, 5, org.example.models.Bishop, false" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.002"/>
+  <testcase name="[7] 0, 6, org.example.models.Knight, false" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[8] 0, 7, org.example.models.Rook, false" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.002"/>
+  <testcase name="[9] 1, 0, org.example.models.Pawn, false" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[10] 1, 1, org.example.models.Pawn, false" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.002"/>
+  <testcase name="[11] 1, 2, org.example.models.Pawn, false" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.002"/>
+  <testcase name="[12] 1, 3, org.example.models.Pawn, false" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.002"/>
+  <testcase name="[13] 1, 4, org.example.models.Pawn, false" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.002"/>
+  <testcase name="[14] 1, 5, org.example.models.Pawn, false" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.004"/>
+  <testcase name="[15] 1, 6, org.example.models.Pawn, false" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.002"/>
+  <testcase name="[16] 1, 7, org.example.models.Pawn, false" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.002"/>
+  <testcase name="[17] 6, 0, org.example.models.Pawn, true" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.002"/>
+  <testcase name="[18] 6, 1, org.example.models.Pawn, true" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.003"/>
+  <testcase name="[19] 6, 2, org.example.models.Pawn, true" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.004"/>
+  <testcase name="[20] 6, 3, org.example.models.Pawn, true" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.004"/>
+  <testcase name="[21] 6, 4, org.example.models.Pawn, true" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.002"/>
+  <testcase name="[22] 6, 5, org.example.models.Pawn, true" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.006"/>
+  <testcase name="[23] 6, 6, org.example.models.Pawn, true" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.004"/>
+  <testcase name="[24] 6, 7, org.example.models.Pawn, true" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.003"/>
+  <testcase name="[25] 7, 0, org.example.models.Rook, true" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[26] 7, 1, org.example.models.Knight, true" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[27] 7, 2, org.example.models.Bishop, true" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.004"/>
+  <testcase name="[28] 7, 3, org.example.models.Queen, true" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[29] 7, 4, org.example.models.King, true" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[30] 7, 5, org.example.models.Bishop, true" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[31] 7, 6, org.example.models.Knight, true" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.005"/>
+  <testcase name="[32] 7, 7, org.example.models.Rook, true" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.003"/>
+  <testcase name="[1] 2, 0" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.005"/>
+  <testcase name="[2] 2, 1" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[3] 2, 2" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.0"/>
+  <testcase name="[4] 2, 3" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[5] 2, 4" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.002"/>
+  <testcase name="[6] 2, 5" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[7] 2, 6" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[8] 2, 7" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.0"/>
+  <testcase name="[9] 3, 0" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[10] 3, 1" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[11] 3, 2" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[12] 3, 3" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.002"/>
+  <testcase name="[13] 3, 4" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[14] 3, 5" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[15] 3, 6" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[16] 3, 7" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[17] 4, 0" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.002"/>
+  <testcase name="[18] 4, 1" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.002"/>
+  <testcase name="[19] 4, 2" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[20] 4, 3" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.0"/>
+  <testcase name="[21] 4, 4" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[22] 4, 5" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[23] 4, 6" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[24] 4, 7" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[25] 5, 0" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[26] 5, 1" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.003"/>
+  <testcase name="[27] 5, 2" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[28] 5, 3" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[29] 5, 4" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.001"/>
+  <testcase name="[30] 5, 5" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.002"/>
+  <testcase name="[31] 5, 6" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.0"/>
+  <testcase name="[32] 5, 7" classname="org.example.MainTest$ModelsTest$BoardTest$BuildTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
